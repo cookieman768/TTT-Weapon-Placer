@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"name" "TTT Weapon Placer"
+	"author_name" "author"
+	"info" "Trouble in Terrorist Town Weapon Placer tool, for creating TTT rearm scripts."
+}
