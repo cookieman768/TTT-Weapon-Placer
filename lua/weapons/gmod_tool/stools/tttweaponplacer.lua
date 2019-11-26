@@ -40,17 +40,18 @@ local weps = {
    ttt_playerspawn = {name="Player spawn", snd=nil},
    
    --Custom Weapons
-   weapon_ttt_aug = {name="Aug",snd="item_ammo_smg1_ttt"},
-   weapon_ttt_famas = {name="Famas",snd="item_ammo_smg1_ttt"},
-   weapon_ttt_galil = {name="Galil",snd="item_ammo_smg1_ttt"},
-   weapon_ttt_magnum = {name="Magnum",snd="item_ammo_revolver_ttt"},
-   weapon_ttt_p90 = {name="P90",snd="item_ammo_smg1_ttt"},
-   weapon_ttt_p228 = {name="P228", snd="item_ammo_pistol_ttt"},
-   weapon_ttt_pump_shotgun = {name="Pump Shotgun", snd="item_box_buckshot_ttt"},
-   weapon_ttt_sg552 = {name="SG552",snd = "item_ammo_pistol_ttt"},
-   weapon_ttt_smg = {name="SMG",snd="item_ammo_smg1_ttt"},
-   weapon_ttt_revolver ={name="Revolver",snd="models/weapons/w_smg1.mdl"}
-   
+   --weapon_ttt_aug = {name="Aug",snd="item_ammo_smg1_ttt"},
+   --weapon_ttt_famas = {name="Famas",snd="item_ammo_smg1_ttt"},
+   --weapon_ttt_galil = {name="Galil",snd="item_ammo_smg1_ttt"},
+   --weapon_ttt_magnum = {name="Magnum",snd="item_ammo_revolver_ttt"},
+   --weapon_ttt_p90 = {name="P90",snd="item_ammo_smg1_ttt"},
+   --weapon_ttt_p228 = {name="P228", snd="item_ammo_pistol_ttt"},
+   --weapon_ttt_pump_shotgun = {name="Pump Shotgun", snd="item_box_buckshot_ttt"},
+   --weapon_ttt_sg552 = {name="SG552",snd = "item_ammo_pistol_ttt"},
+   --weapon_ttt_smg = {name="SMG",snd="item_ammo_smg1_ttt"},
+   --weapon_ttt_revolver ={name="Revolver",snd="models/weapons/w_smg1.mdl"}
+   weapon_cr_grenade_frag = {name="Crescent Frag", snd=nil},
+   weapon_cr_grenade_flashbang = {name="Crescent Flash", snd=nil}
 }
 
 local mdls = {
@@ -78,19 +79,20 @@ local mdls = {
 
    ttt_playerspawn = "models/player.mdl",
    
-   weapon_ttt_aug = "models/weapons/w_rif_aug.mdl",
-   weapon_ttt_famas = "models/weapons/w_rif_famas.mdl",
-   weapon_ttt_galil = "models/weapons/w_rif_galil.mdl",
-   weapon_ttt_magnum = "models/weapons/w_357.mdl",
-   weapon_ttt_p90 = "models/weapons/w_smg_p90.mdl",
-   weapon_ttt_p228 = "models/weapons/w_pist_p228.mdl",
-   weapon_ttt_pump_shotgun = "models/weapons/w_shot_m3super90.mdl",
-   weapon_ttt_sg552 = "models/weapons/w_rif_sg552.mdl",
-   weapon_ttt_smg = "models/weapons/w_smg1.mdl",
-   weapon_ttt_revolver = "models/weapons/w_pist_deagle.mdl"
+   --weapon_ttt_aug = "models/weapons/w_rif_aug.mdl",
+   --weapon_ttt_famas = "models/weapons/w_rif_famas.mdl",
+   --weapon_ttt_galil = "models/weapons/w_rif_galil.mdl",
+   --weapon_ttt_magnum = "models/weapons/w_357.mdl",
+   --weapon_ttt_p90 = "models/weapons/w_smg_p90.mdl",
+   --weapon_ttt_p228 = "models/weapons/w_pist_p228.mdl",
+   --weapon_ttt_pump_shotgun = "models/weapons/w_shot_m3super90.mdl",
+   --weapon_ttt_sg552 = "models/weapons/w_rif_sg552.mdl",
+   --weapon_ttt_smg = "models/weapons/w_smg1.mdl",
+   --weapon_ttt_revolver = "models/weapons/w_pist_deagle.mdl"
    
    
-   
+   weapon_cr_grenade_frag = {name="Crescent Frag", snd=nil},
+   weapon_cr_grenade_flashbang = {name="Crescent Flash", snd=nil}
    
    
    
